@@ -24,7 +24,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<div align="center"> <a href="https://www.epitech.eu/fr/" target="_blank"> <img src="https://imgs.search.brave.com/phsrlS5jKBqHzHAczbFAnm-rT_2xYB1_SQe2XGL6fUE/rs:fit:1200:1200:1/g:ce/aHR0cDovL2VpcC5l/cGl0ZWNoLmV1LzIw/MTQvZXF1aWdlc3Rp/b24vaW1nL2VwaXRl/Y2gtbG9nby5wbmc" alt="epitech_logo" width="200" height="74"/> <br></br> </a> </div> <div align="center"> <h3>I'm an Epitech student in the High School Program, currently in second year.</h3> </div> <br>
+<div align="center"> <a href="https://www.epitech.eu/fr/" target="_blank"> <img src="https://imgs.search.brave.com/phsrlS5jKBqHzHAczbFAnm-rT_2xYB1_SQe2XGL6fUE/rs:fit:1200:1200:1/g:ce/aHR0cDovL2VpcC5l/cGl0ZWNoLmV1LzIw/MTQvZXF1aWdlc3Rp/b24vaW1nL2VwaXRl/Y2gtbG9nby5wbmc" alt="epitech_logo" width="200" height="74"/> <br></br> </a> </div> <div align="center"> <h3>I'm an Epitech student in the High School Program, currently in third year.</h3> </div> <br>
 
 <h2 align="left">📲 Let's get connected:</h2>
 
