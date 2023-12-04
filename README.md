@@ -9,7 +9,7 @@
  </abc>
 </h2>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">Technologies and Tools I use:</h2>
 
 <p align="left">
     <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="52" height="52"/> </a>
@@ -20,6 +20,7 @@
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="52" height="52"/> </a>
     <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="52" height="52"/> </a>
     <a href="https://en.wikipedia.org/wiki/Git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="52" height="52"/> </a>
+    <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/unity/unity-original.svg" alt="unity" width="52" height="52"/> </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
