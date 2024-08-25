@@ -19,8 +19,20 @@
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="52" height="52"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" alt="typescript" width="52" height="52"/> </a>
     <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="52" height="52"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="52" height="52"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-original.svg" alt="flutter" width="52" height="52"/> </a>
+    <a href="https://www.electronjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/electron/electron-original.svg" alt="electron" width="52" height="52"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" alt="nextjs" width="52" height="52"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="python" width="52" height="52"/> </a>
+    <a href="https://www.haskell.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/haskell/haskell-original.svg" alt="haskell" width="52" height="52"/> </a>
+    <a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="52" height="52"/> </a>
+    <a href="https://fr.wikipedia.org/wiki/Structured_Query_Language" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-original.svg" alt="sql" width="52" height="52"/> </a>
     <a href="https://console.firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/firebase/firebase-plain.svg" alt="firebase" width="52" height="52"/> </a>
+    <a href="https://filezilla-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/filezilla/filezilla-original.svg" alt="filezilla" width="52" height="52"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="52" height="52"/> </a>
+    <a href="https://www.gitkraken.com/" target="_blank"> <img src="https://grafikart.fr/uploads/icons/gitkraken.svg" alt="gitkraken" width="52" height="52"/> </a>
+    <a href="https://www.adobe.com/fr/products/illustrator/campaign/pricing.html?mv=search&mv=search&mv2=paidsearch&sdid=GMCWY69B" target="_blank"> <img src="https://www.daelyo.fr/wp-content/uploads/formation-illustrator-distanciel.jpg" alt="adobeillustrator" width="52" height="52"/> </a>
+    <a href="https://www.adobe.com/fr/products/photoshop/landpa.html?mv=search&mv=search&mv2=paidsearch&sdid=2SLRC12G" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-original.svg" alt="adobephotoshop" width="52" height="52"/> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" alt="figma" width="52" height="52"/> </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
