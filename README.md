@@ -2,7 +2,7 @@
   
   <h1>👋 Salut, moi c’est Maxime Pianezzi</h1>
   
-  <p><strong>Étudiant en 5ᵉ année à Epitech Paris</strong> — spécialisation <strong>mobile & web</strong>, entrepreneur et créateur de produits utiles.</p>
+  <p><strong>Étudiant en 5ᵉ année à Epitech Paris</strong> — spécialisation <strong>web & mobile</strong>. J’apprends vite, je m’adapte aux stacks et je livre des produits utiles.</p>
   
   <a href="https://www.linkedin.com/in/maxime-pianezzi-bb144522b/">
     <img alt="LinkedIn - Maxime Pianezzi" src="https://img.shields.io/badge/LinkedIn-Maxime%20Pianezzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -41,6 +41,8 @@
 - <strong>Frameworks & Techs</strong> : React Native, Flutter, Electron, Next.js, Node.js, Swift, SwiftUI, Firebase, AWS
 - <strong>Outils</strong> : Git, GitKraken, Figma, Illustrator, Photoshop
 
+<p><em>Ces technos reflètent ce que j’ai déjà utilisé. Je ne suis pas limité à cette liste : je monte rapidement en compétence sur de nouveaux langages, frameworks et outils selon le besoin du projet.</em></p>
+
 <br/>
 
 <div>
@@ -78,6 +80,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="42" height="42"/>
   </p>
 </div>
+
+## 🧠 Approche
+
+- <strong>Apprentissage rapide</strong> : prise en main de nouvelles technos en quelques jours.
+- <strong>Polyvalence</strong> : mobile, web, backend et cloud selon les enjeux.
+- <strong>Orientation produit</strong> : je priorise la valeur livrée et l’UX.
 
 ## 🚀 Projets clés
 
