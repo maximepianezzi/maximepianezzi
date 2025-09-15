@@ -1,44 +1,96 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Maxime Pianezzi, Epitech Student :computer:<br>
-  <br>
-  <div align="center">
-    <img src="https://media1.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47dok0n6ifoevz1wwzgxzn2id84o9amibbx9wawtse&rid=giphy.gif&ct=s" alt="Coder GIF" width="500">
-  </div>
- </abc>
-</h2>
+<div align="center">
+  
+  <h1>👋 Salut, moi c’est Maxime Pianezzi</h1>
+  
+  <p><strong>Étudiant en 5ᵉ année à Epitech Paris</strong> — spécialisation <strong>web & mobile</strong>, entrepreneur et créateur de produits utiles.</p>
+  
+  <a href="https://www.linkedin.com/in/maxime-pianezzi-bb144522b/">
+    <img alt="LinkedIn - Maxime Pianezzi" src="https://img.shields.io/badge/LinkedIn-Maxime%20Pianezzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <br/>
+  <br/>
+</div>
 
-<h2 align="left">Technologies and Tools I use:</h2>
+## 🎓 Formation
 
-<p align="left">
-    <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="52" height="52"/> </a>
-    <a href="https://en.wikipedia.org/wiki/C++" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="52" height="52"/> </a>
-    <a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="52" height="52"/> </a>
-    <a href="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="52" height="52"/> </a>
-    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="52" height="52"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" alt="typescript" width="52" height="52"/> </a>
-    <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="52" height="52"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-original.svg" alt="flutter" width="52" height="52"/> </a>
-    <a href="https://www.electronjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/electron/electron-original.svg" alt="electron" width="52" height="52"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" alt="nextjs" width="52" height="52"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="python" width="52" height="52"/> </a>
-    <a href="https://www.haskell.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/haskell/haskell-original.svg" alt="haskell" width="52" height="52"/> </a>
-    <a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="52" height="52"/> </a>
-    <a href="https://fr.wikipedia.org/wiki/Structured_Query_Language" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-original.svg" alt="sql" width="52" height="52"/> </a>
-    <a href="https://console.firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/firebase/firebase-plain.svg" alt="firebase" width="52" height="52"/> </a>
-    <a href="https://filezilla-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/filezilla/filezilla-original.svg" alt="filezilla" width="52" height="52"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="52" height="52"/> </a>
-    <a href="https://www.gitkraken.com/" target="_blank"> <img src="https://grafikart.fr/uploads/icons/gitkraken.svg" alt="gitkraken" width="52" height="52"/> </a>
-    <a href="https://www.adobe.com/fr/products/illustrator/campaign/pricing.html?mv=search&mv=search&mv2=paidsearch&sdid=GMCWY69B" target="_blank"> <img src="https://www.daelyo.fr/wp-content/uploads/formation-illustrator-distanciel.jpg" alt="adobeillustrator" width="52" height="52"/> </a>
-    <a href="https://www.adobe.com/fr/products/photoshop/landpa.html?mv=search&mv=search&mv2=paidsearch&sdid=2SLRC12G" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-original.svg" alt="adobephotoshop" width="52" height="52"/> </a>
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" alt="figma" width="52" height="52"/> </a>
-</p>
+- 5ᵉ année — <strong>Epitech Paris</strong> (2021–2026)
+  - Diplôme d’Expert en technologies de l’information (RNCP niveau 7)
+  - Spécialisation en développement <strong>web & mobile</strong>
+  - Projets: IoT, UX/UI, cloud, deep learning, LLM
+- <strong>Epitech Barcelone</strong> (2024) — Certificat Internet of Things (IoT)
+- <strong>Baccalauréat Scientifique</strong> (Physique‑Chimie) — Lycée Saint‑Louis, Bar‑le‑Duc
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+## 💼 Expériences
 
-<div align="center"> <a href="https://www.epitech.eu/fr/" target="_blank"> <img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-ACCROCHE-2023-QUADRI.png" alt="epitech_logo" width="200" height="74"/> <br></br> </a> </div> <div align="center"> <h3>I'm an Epitech student in the High School Program, currently in Barcelona, in fourth year.</h3> </div> <br>
+- <strong>Co‑fondateur & DG — Hypodia</strong> (2025 – présent)
+  - Premier bureau médical digital pour simplifier la vie des médecins
+  - Vision produit, stratégie et pilotage du développement
+- <strong>Lead Mobile Developer — Brio Studios</strong> (2024 – 2025)
+  - Développement complet de l’application mobile
+- <strong>Freelance — Pada1</strong> (2024)
+  - MVP d’une app mobile (React Native, SQL, Git)
+- <strong>Stagiaire — Biosynex</strong> (2022)
+  - Double authentification Safenet et gestion des clés de chiffrement
+- <strong>Auto‑entrepreneur — M.P. COMPANY</strong>
+  - Développement de logiciels et solutions numériques sur mesure
 
-<h2 align="left">📲 Let's get connected:</h2>
+## 💻 Compétences techniques
 
-[![Linkedin Badge](https://img.shields.io/badge/-Maxime_Pianezzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/maxime-pianezzi-bb144522b/)
+- <strong>Langages</strong> : C, C++, Python, Haskell, JavaScript, TypeScript, SQL, HTML, CSS
+- <strong>Frameworks & Techs</strong> : React Native, Flutter, Electron, Next.js, Node.js, Swift, SwiftUI, Firebase, AWS
+- <strong>Outils</strong> : Git, GitKraken, Figma, Illustrator, Photoshop
+
+<br/>
+
+<div>
+  <strong>Langages</strong><br/>
+  <p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="Haskell" width="42" height="42"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQL" width="42" height="42"/>
+  </p>
+
+  <strong>Frameworks & Techs</strong><br/>
+  <p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React / React Native" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift / SwiftUI" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="52" height="42"/>
+  </p>
+
+  <strong>Outils</strong><br/>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+    <img src="https://grafikart.fr/uploads/icons/gitkraken.svg" alt="GitKraken" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="42" height="42"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="42" height="42"/>
+  </p>
+</div>
+
+## 🚀 Projets clés
+
+- <strong>Hypodia</strong> — Bureau médical digital centralisant les outils des médecins
+- <strong>Twobrain – Ton deuxième cerveau</strong> — Assistant personnel (to‑do, habitudes, événements; bientôt budget automatisé via Apple Wallet)
+
+## 🎯 Objectifs
+
+- Stage de fin d’études : <strong>mars → août 2026</strong>
+- Développer <strong>Hypodia</strong> & <strong>Twobrain</strong>
+- Créer d’autres SaaS orientés productivité
+- Ambition long terme : allier <strong>innovation technologique</strong>, <strong>impact sociétal</strong> et <strong>croissance entrepreneuriale</strong>
+
+---
+
+💡 Toujours motivé par l’idée de <strong>créer des produits utiles</strong>, bien conçus et simples à utiliser.
