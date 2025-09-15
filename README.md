@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="42"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift / SwiftUI" width="42" height="42"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="42" height="42"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="52" height="42"/>
+    <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="52" height="42"/>
   </p>
 
   <strong>Outils</strong><br/>
