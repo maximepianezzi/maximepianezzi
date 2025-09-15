@@ -2,7 +2,7 @@
   
   <h1>👋 Salut, moi c’est Maxime Pianezzi</h1>
   
-  <p><strong>Étudiant en 5ᵉ année à Epitech Paris</strong> — spécialisation <strong>web & mobile</strong>, entrepreneur et créateur de produits utiles.</p>
+  <p><strong>Étudiant en 5ᵉ année à Epitech Paris</strong> — spécialisation <strong>mobile & web</strong>, entrepreneur et créateur de produits utiles.</p>
   
   <a href="https://www.linkedin.com/in/maxime-pianezzi-bb144522b/">
     <img alt="LinkedIn - Maxime Pianezzi" src="https://img.shields.io/badge/LinkedIn-Maxime%20Pianezzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -86,8 +86,8 @@
 
 ## 🎯 Objectifs
 
-- Stage de fin d’études : <strong>mars → août 2026</strong>
-- Développer <strong>Hypodia</strong> & <strong>Twobrain</strong>
+- Trouver mon stage de fin d’études : <strong>mars → août 2026</strong>
+- Continuer de développer <strong>Hypodia</strong>
 - Créer d’autres SaaS orientés productivité
 - Ambition long terme : allier <strong>innovation technologique</strong>, <strong>impact sociétal</strong> et <strong>croissance entrepreneuriale</strong>
 
