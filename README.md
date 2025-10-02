@@ -38,7 +38,7 @@
 ## 💻 Compétences techniques
 
 - <strong>Langages & Frameworks</strong> : C, C++, Python, JavaScript, TypeScript, HTML, CSS, Tailwind, SQL, React Native, React.js, Flutter, Electron, Next.js, Node.js, Swift, SwiftUI
-- <strong>Base de données</strong> : Firebase, AWS
+- <strong>Base de données</strong> : Firebase, AWS, phpMyAdmin, Google Cloud
 - <strong>Outils</strong> : Git, GitKraken, FileZilla, Expo, Vercel, App Store Connect, Google Play Console, Figma, Canva, Illustrator, Photoshop
 
 <p><em>Ces technos reflètent ce que j’ai déjà utilisé. Je ne suis pas limité à cette liste : je monte rapidement en compétence sur de nouveaux langages, frameworks et outils selon le besoin du projet.</em></p>
