@@ -24,7 +24,7 @@
 ## 💼 Expériences
 
 - <strong>Co‑fondateur & DG — Hypodia</strong> (2025 – présent)
-  - Premier bureau médical digital pour simplifier la vie des médecins
+  - Premier navigateur web conçu pour simplifier la vie des médecins
   - Vision produit, stratégie et pilotage du développement
 - <strong>Lead Mobile Developer — Brio Studios</strong> (2024 – 2025)
   - Développement complet de l’application mobile
@@ -48,18 +48,6 @@
 - <strong>Apprentissage rapide</strong> : prise en main de nouvelles technos en quelques jours.
 - <strong>Polyvalence</strong> : mobile, web, backend et cloud selon les enjeux.
 - <strong>Orientation produit</strong> : je priorise la valeur livrée et l’UX.
-
-## 🚀 Projets clés
-
-- <strong>Hypodia</strong> — Bureau médical digital centralisant les outils des médecins
-- <strong>Twobrain – Ton deuxième cerveau</strong> — Assistant personnel (to‑do list, habitudes, événements, etc...)
-
-## 🎯 Objectifs
-
-- Trouver mon stage de fin d’études : <strong>mars → août 2026</strong>
-- Continuer de développer <strong>Hypodia</strong>
-- Créer d’autres App et SaaS.
-- Ambition long terme : allier <strong>innovation technologique</strong>, <strong>impact sociétal</strong> et <strong>croissance entrepreneuriale</strong>
 
 ---
 
